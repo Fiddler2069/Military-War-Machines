@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "294205c566336087",
+    "type": "split",
+    "children": [
+      {
+        "id": "221a44b4b1a5ba6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae073cfce72c194a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Only Way to Win a Nuclear War.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54a86ee8de4134fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "b513a0471f504949",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49e9c3a1cfb759b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be8d80cbbbd13cc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "467e0f1a9c727353",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e27cb85fb0d6b517",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f13f6fa73517fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c62597a5f3d1fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Only Way to Win a Nuclear War.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0f88c28361a7309",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-projects:Open projects": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "49e9c3a1cfb759b2",
+  "lastOpenFiles": [
+    "Untitled",
+    "The Only Way to Win a Nuclear War.md"
+  ]
+}
