@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277
   },
   "right": {
     "id": "e27cb85fb0d6b517",
@@ -104,12 +105,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 280
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -125,7 +126,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "49e9c3a1cfb759b2",
+  "active": "ae073cfce72c194a",
   "lastOpenFiles": [
     "Untitled",
     "The Only Way to Win a Nuclear War.md"
